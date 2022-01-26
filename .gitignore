@@ -1,0 +1,7 @@
+$ cat .gitignore
+temp/
+*.tmp
+  
+$ git add -f debug.tmp
+  
+$ git commit -m "Filtering out temp folder and tmp files"
