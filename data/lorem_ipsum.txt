@@ -2,8 +2,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
 $ git commit -m "First line of Lorem Ipsum"
 
-In orci sapien, varius tristique nulla a, dapibus faucibus massa. 
-Proin ligula sapien, viverra sit amet egestas vitae, venenatis sed erat. 
-Cras ut metus auctor, convallis metus et, lobortis tellus.
 
-$ git commit -m "Added 3 lines of Lorem Ipsum"
